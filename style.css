@@ -1,3 +1,7 @@
 body {
   background-color: navy;
 }
+
+.min-w-36.max-w-39 img {
+  width: auto;
+}
